@@ -1,6 +1,6 @@
 userMessages:
   statement:
-    alreadySettled: Statement Already Settled.
+    alreadySettled: Statement Already Settledd.
     notForSettlement: Statement not available for settlement.
     amountMismatch: Invalid amount entered. It needs to be same as payout.
 
