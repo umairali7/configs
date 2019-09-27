@@ -1,3 +1,8 @@
+
+userMessages.statement.alreadySettled=alreadySettled
+userMessages.statement.notForSettlement=notForSettlement
+userMessages.statement.amountMismatch=amountMismatch
+
 userMessages:
   statement:
     alreadySettled: Statement Already Settledd.
